@@ -1,0 +1,13 @@
+---
+beta: 1.0 # Heating rate in K/s
+theta_sat: 0.86 # Saturation coverage in ML
+grid_size: 100 # Number of grid points for the mpmath integration
+Tmin: 100 # Minimum temperature in K
+Tmax: 800 # Maximum temperature in K
+mpmath_precision: 100 # Decimal precision for the mpmath integration
+b: 0.08 # Adsorbate-adsorbate interaction parameter 1--1
+H0: 1.45 # Enthalpy of desorption for site 0 in eV
+H1: 1.38 # Enthalpy of desorption for site 1 in eV
+a: 0.16  # Adsorbate-adsorbate interaction parameter 0--1
+theta_change: 0.32 # Value at which the coverage changes from unchanging with coverage to changing with coverage. 
+output_dir: output # Directory to save the output
