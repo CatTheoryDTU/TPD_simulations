@@ -1,0 +1,27 @@
+Could not load pymatgen modules. Symmetry detection for gas phase molecules will not work.
+Version 2.0 Developed by Guowen Peng, updated by Benjamin Chen for python3, based on the Dacapo version by LG, RN, FE, YX, and modules in ASE3.
+
+Could not load pymatgen modules. Symmetry detection for gas phase molecules will not work.
+Version 2.0 Developed by Guowen Peng, updated by Benjamin Chen for python3, based on the Dacapo version by LG, RN, FE, YX, and modules in ASE3.
+
+Could not load pymatgen modules. Symmetry detection for gas phase molecules will not work.
+Version 2.0 Developed by Guowen Peng, updated by Benjamin Chen for python3, based on the Dacapo version by LG, RN, FE, YX, and modules in ASE3.
+
+----------------------------------------
+ Mode#  ModeTypes   Frequency(1/cm)
+----------------------------------------
+ 0      vib                    68.2i 
+ 1      vib                   115.1  
+ 2      vib                   125.4  
+ 3      vib                   154.0  
+ 4      vib                   172.2  
+ 5      vib                   191.0  
+ 6      vib                   204.8  
+ 7      vib                   214.3  
+ 8      vib                   218.2  
+ 9      vib                   257.6  
+ 10     vib                   339.4  
+ 11     vib                  1353.8  
+----------------------------------------
+
+All non-imaginary freqs:  115.1 125.4 154.0 172.2 191.0 204.8 214.3 218.2 257.6 339.4 1353.8
