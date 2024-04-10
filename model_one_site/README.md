@@ -20,7 +20,7 @@ Activate the virtual environment and install the required packages:
 Run the simulation from the model directory
 
 ```
-    python model.py
+    python run_model.py
 ```
 
 You will have to set the following keys in the file `inputs.yaml`:
