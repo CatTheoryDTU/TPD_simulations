@@ -34,7 +34,7 @@ You will have to set the following keys in the file `inputs.yaml`:
 * `b`: Adsorbate-adsorbate interaction parameter 1--1
 * `a`: Adsorbate-adsorbate interaction parameter 0--1
 * `H0`: Enthalpy of desorption for site 0 in eV
-* `H1`: Enthalpy of adsorption for site 1 in eV
+* `H1`: Enthalpy of desorption for site 1 in eV
 * `theta_change`: The coverage at which the adsorbate-adsorbate are "turned on" 
 * `output_dir`: The directory where the output files will be saved
 
