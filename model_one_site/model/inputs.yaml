@@ -6,6 +6,6 @@ Tmin: 100 # Minimum temperature in K
 Tmax: 800 # Maximum temperature in K
 mpmath_precision: 100 # Decimal precision for the mpmath integration
 b: 0.08 # Adsorbate-adsorbate interaction parameter
-H0: 1.38 # Enthalpy of adsorption in eV
+H0: 1.38 # Enthalpy of desorption in eV
 theta_change: 0.32 # Value at which the coverage changes from unchanging with coverage to changing with coverage. 
 output_dir: output # Directory to save the output
